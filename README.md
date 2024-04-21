@@ -1,9 +1,9 @@
 # Predicting Heart Disease Using Machine Learning
 
 SC1015 Lab Group FCSI - Group 1
-- Aloysius Lee (U2322402L)
-- Faybeata (U2323102A)
-- Nicholas Chang (U2322962F)
+- Aloysius Lee
+- Faybeata
+- Nicholas Chang
 
 ## Table of Contents
 [About this project](#about-this-project)
